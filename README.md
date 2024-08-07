@@ -12,10 +12,6 @@ Programming Languages: Python (Pandas, NumPy, Scikit-learn), SQL
 
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 
-Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
-
-Statistical Analysis: Hypothesis Testing, Regression Analysis
-
 Data Manipulation: ETL Processes, Data Cleaning
 
 🚀 **Highlighted Projects**
