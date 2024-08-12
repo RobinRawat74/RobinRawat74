@@ -14,9 +14,6 @@ Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 
 Data Manipulation: ETL Processes, Data Cleaning
 
-🚀 **Highlighted Projects**
-📈 Predictive Sales Forecasting
-Description: Developed a predictive model using Python to forecast sales trends, helping businesses make data-driven decisions and optimize inventory management.
 
 
 🔍 **Customer Segmentation Analysis**
