@@ -8,11 +8,10 @@ My background in market research and expertise in Python, SQL, and Power BI driv
 🛠️ **Skills & Expertise**
 Here’s a snapshot of the tools and techniques I use to turn data into stories:
 
-Programming Languages: Python (Pandas, NumPy, Scikit-learn), SQL
+Programming Languages: Python, SQL
 
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Data Visualization: Power BI, Tableau
 
-Data Manipulation: ETL Processes, Data Cleaning
 
 
 
